@@ -3,8 +3,7 @@
 A differentiable physics solver for designing optical thin-film multilayers. This project uses **Sharpness-Aware Minimization (SAM/SAGD)** to find robust layer thickness configurations that achieve target transmittance spectra.
 
 Powered by PyTorch, it supports GPU acceleration and automatic differentiation through the Transfer Matrix Method (TMM).
-<img alt="image" src="https://github.com/user-attachments/assets/3be39101-0dd0-4f9e-9787-1acbd2404f80" />
-
+<img src="[图片链接](https://github.com/user-attachments/assets/3be39101-0dd0-4f9e-9787-1acbd2404f80)" width="50%" />
 ## Paper
 
 Yuchen Ma, Guangwei Hu and Liangcai Cao.  
