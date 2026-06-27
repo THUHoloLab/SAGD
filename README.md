@@ -4,8 +4,9 @@ A differentiable physics solver for designing optical thin-film multilayers. Thi
 
 Powered by PyTorch, it supports GPU acceleration and automatic differentiation through the Transfer Matrix Method (TMM).
 
-
-<img width="50%" alt="fig1" src="https://github.com/user-attachments/assets/f03eaabe-ec1c-4631-befd-97a1296d988b" />
+<div align="center">
+  <img width="70%" alt="fig1" src="https://github.com/user-attachments/assets/f03eaabe-ec1c-4631-befd-97a1296d988b" />
+</div>
 
 ## Paper
 
