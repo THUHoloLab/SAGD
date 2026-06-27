@@ -6,7 +6,7 @@ The code implements a differentiable transfer-matrix-method (TMM) solver and opt
 
 ## Paper
 
-Ma, Y., Hu, G., Cao, L.  
+Yuchen Ma, Guangwei Hu and Liangcai Cao.  
 **Sharpness-Aware Minimization for Robust Inverse Design of Nonlocal Thin Films.**  
 *Laser & Photonics Reviews* (2026).  
 DOI: [10.1002/lpor.71366](https://doi.org/10.1002/lpor.71366)
