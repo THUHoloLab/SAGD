@@ -1,8 +1,8 @@
 # SAGD for Robust Inverse Design of Nonlocal Thin Films
 
-This repository provides a PyTorch implementation of **Sharpness-Aware Gradient Descent (SAGD)** for the robust inverse design of nonlocal multilayer thin films.
+A differentiable physics solver for designing optical thin-film multilayers. This project uses **Sharpness-Aware Minimization (SAM/SAGD)** to find robust layer thickness configurations that achieve target transmittance spectra.
 
-The code implements a differentiable transfer-matrix-method (TMM) solver and optimizes layer thicknesses to achieve target angle- and wavelength-dependent optical responses.
+Powered by PyTorch, it supports GPU acceleration and automatic differentiation through the Transfer Matrix Method (TMM).
 
 ## Paper
 
